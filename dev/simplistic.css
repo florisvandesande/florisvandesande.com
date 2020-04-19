@@ -1,0 +1,17 @@
+/*
+Theme name:		Simplistic
+Author:			Floris van de Sande
+Version:		1.0
+Description:	Hello, I'm a simple base theme for a personal website
+Source URL:		http://florisvandesande.com/dev/
+Language:		English
+================================================================================= */
+
+
+/* import css
+================================================================================= */
+@import url("typography.css") screen;
+@import url("lay-out.css") screen;
+@import url("design.css") screen;
+@import url("print.css") print;
+@import url("https://fonts.googleapis.com/css?family=Inconsolata") screen;
